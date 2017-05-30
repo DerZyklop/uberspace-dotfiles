@@ -7,5 +7,5 @@ Install:
     ssh [account]@[domain.tld]
 
     cd ~
-    git pull https://github.com/DerZyklop/uberspace-dotfiles.git
+    git clone https://github.com/DerZyklop/uberspace-dotfiles.git
     cp uberspace-dotfiles/.profile uberspace-dotfiles/.bash_prompt uberspace-dotfiles/.aliases uberspace-dotfiles/.bash_profile ./
